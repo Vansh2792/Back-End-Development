@@ -146,7 +146,7 @@
             </head>
           <body bgcolor="white">
           <div class="navbar">
-                  <a href="Index.html">Home</a>
+                  <a href="index.html">Home</a>
                   <div class="dropdown">
                       <button class="dropbtn">View
                           <i class="fa fa-caret-down"></i>
